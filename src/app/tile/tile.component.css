@@ -1,0 +1,7 @@
+img {
+    border-radius: 10%;
+}
+
+img:hover {
+    scale: 1.1;
+}
